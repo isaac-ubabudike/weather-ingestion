@@ -13,6 +13,13 @@
 	"upload_source_maps": true,
 	"compatibility_flags": [
 		"nodejs_compat"
+	],
+	"d1_databases": [
+		{
+			"binding": "weather_db",
+			"database_name": "weather-db",
+			"database_id": "91d70cb1-a030-4b00-aa02-eb0ded467882"
+		}
 	]
 	/**
 	 * Smart Placement
